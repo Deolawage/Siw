@@ -15,7 +15,7 @@
 }
 
 body{
- background-image: url('img/bg-lines.svg');
+ background-image: url('bg-lines.svg');
  background-repeat: no-repeat;
   background-position: left top;
   background-attachment: scroll;
